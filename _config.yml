@@ -1,0 +1,25 @@
+title:              Minhyeok's Gitblog
+email:              fnels154@gmail.com
+description:        Minhyeok's portfolio site
+author:             Minhyeok Ko
+baseurl:            ""
+url:                "https://Minyeokue.github.io"
+
+# Social Profiles
+twitter_username:   Minyeokue
+github_username:    Minyeokue
+facebook_username:  Minyeokue
+instagram_username: Minyeokue
+linkedin_username:  Minyeokue
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   G-MRFB01VGRJ # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site

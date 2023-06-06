@@ -2,7 +2,7 @@ title:              Minhyeok's Gitblog
 email:              fnels154@gmail.com
 description:        Minhyeok's portfolio site
 author:             Minhyeok Ko
-baseurl:            "/home"
+baseurl:            #
 url:                "https://Minyeokue.github.io"
 
 # Social Profiles
